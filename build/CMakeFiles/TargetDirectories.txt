@@ -1,0 +1,3 @@
+/Users/andreww/udacity/CppND-Program-a-Concurrent-Traffic-Simulation/build/CMakeFiles/rebuild_cache.dir
+/Users/andreww/udacity/CppND-Program-a-Concurrent-Traffic-Simulation/build/CMakeFiles/edit_cache.dir
+/Users/andreww/udacity/CppND-Program-a-Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir
